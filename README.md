@@ -1,8 +1,6 @@
 # BoldSign API Angular with NodeJS examples
 Demostrates how to use BoldSign signing service. This sample uses Angular as frontend and NodeJS as backend.
 
-[![NuGet Version][nuget badge]][nuget link]
-[![NuGet Downloads][nuget downloads badge]][nuget downloads link]
 [![API Demo][api demo badge]][api demo link]
 
 ## Scenarios covered
@@ -50,9 +48,3 @@ Any feedback or queries? Please feel free to [contact our support team](https://
 
 [api demo link]: https://demos.boldsign.com/
 [api demo badge]: https://img.shields.io/badge/-API%20Demo-blue
-
-[nuget link]: https://www.nuget.org/packages/BoldSign.Api/
-[nuget badge]: https://img.shields.io/badge/nuget-v2.0.6-orange
-
-[nuget downloads link]: https://www.nuget.org/packages/BoldSign.Api/
-[nuget downloads badge]: https://img.shields.io/badge/downloads-2.5k%2B-brightgreen
